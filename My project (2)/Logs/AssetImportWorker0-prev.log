@@ -15,7 +15,7 @@ C:/Users/CNSB22/Documents/GitHub/TheFiveEnchantedLands/My project (2)
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50412
+57814
 Successfully changed project path to: C:/Users/CNSB22/Documents/GitHub/TheFiveEnchantedLands/My project (2)
 C:/Users/CNSB22/Documents/GitHub/TheFiveEnchantedLands/My project (2)
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Users/CNSB22/Documents/GitHub/TheFiveEnchantedLands/My project (2)
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [8472] Host "[IP] 10.0.0.133 [Port] 0 [Flags] 2 [Guid] 2562956360 [EditorId] 2562956360 [Version] 1048832 [Id] WindowsEditor(7,CNSB-02) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [11484] Host "[IP] 10.0.0.133 [Port] 0 [Flags] 2 [Guid] 2070912034 [EditorId] 2070912034 [Version] 1048832 [Id] WindowsEditor(7,CNSB-02) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [8472] Host "[IP] 10.0.0.133 [Port] 0 [Flags] 2 [Guid] 2562956360 [EditorId] 2562956360 [Version] 1048832 [Id] WindowsEditor(7,CNSB-02) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [11484] Host "[IP] 10.0.0.133 [Port] 0 [Flags] 2 [Guid] 2070912034 [EditorId] 2070912034 [Version] 1048832 [Id] WindowsEditor(7,CNSB-02) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 81.25 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 97.99 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.16f1 (4016570cf34f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Resources/UnitySubsystems
@@ -67,92 +67,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56860
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56208
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004081 seconds.
+Registered in 0.003669 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 74.29 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 100.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.548 seconds
+- Completed reload, in  0.675 seconds
 Domain Reload Profiling:
-	ReloadAssembly (549ms)
-		BeginReloadAssembly (69ms)
+	ReloadAssembly (675ms)
+		BeginReloadAssembly (92ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (383ms)
-			LoadAssemblies (67ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (473ms)
+			LoadAssemblies (88ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (86ms)
+			SetupTypeCache (101ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (23ms)
-			SetupLoadedEditorAssemblies (234ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (299ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (74ms)
+				RefreshPlugins (101ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (113ms)
-				ProcessInitializeOnLoadMethodAttributes (39ms)
+				ProcessInitializeOnLoadAttributes (151ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004031 seconds.
+Registered in 0.003618 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.023 seconds
+- Completed reload, in  1.086 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1024ms)
-		BeginReloadAssembly (112ms)
+	ReloadAssembly (1087ms)
+		BeginReloadAssembly (113ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (19ms)
-		EndReloadAssembly (784ms)
-			LoadAssemblies (92ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (851ms)
+			LoadAssemblies (93ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (292ms)
+			SetupTypeCache (251ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (49ms)
-			SetupLoadedEditorAssemblies (339ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (413ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (73ms)
-				ProcessInitializeOnLoadAttributes (233ms)
-				ProcessInitializeOnLoadMethodAttributes (23ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (291ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3540 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 38 unused Assets / (129.1 KB). Loaded Objects now: 3999.
 Memory consumption went from 126.0 MB to 125.9 MB.
-Total: 3.450800 ms (FindLiveObjects: 0.399600 ms CreateObjectMapping: 0.140000 ms MarkObjects: 2.789800 ms  DeleteObjects: 0.120400 ms)
+Total: 7.697500 ms (FindLiveObjects: 2.006000 ms CreateObjectMapping: 0.810000 ms MarkObjects: 4.675900 ms  DeleteObjects: 0.201800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -166,16 +166,253 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 8712.546772 seconds.
-  path: Assets/Level 1.unity
-  artifactKey: Guid(34639137c0cffa748b51b4c593e8de3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Level 1.unity using Guid(34639137c0cffa748b51b4c593e8de3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41b05a2bb2ed59835c519ba480682ff') in 0.021519 seconds 
+  Time since last request: 39050.041152 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4422fa6624cc47d07bd77dbba707aa') in 0.217909 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.435704 seconds.
-  path: Assets/Win Screen.unity
-  artifactKey: Guid(05cf978021e3fee4ebf1bb331d4bd65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Win Screen.unity using Guid(05cf978021e3fee4ebf1bb331d4bd65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afbc7952f3c2ff8f9ed4493ca8743229') in 0.013406 seconds 
+  Time since last request: 0.000040 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63acc93f8333cff6af3953befece50c9') in 0.075106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d3193e040477b4e1726fca04fe57113') in 0.061016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/Column.mat
+  artifactKey: Guid(576b1cf003306224fa2f4ae665c1a62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/Column.mat using Guid(576b1cf003306224fa2f4ae665c1a62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b11382b6a4fb9112f27fbd2223fe81') in 0.029636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/column_up.mat
+  artifactKey: Guid(7742b1d6e4278e04b8833d23eec3265e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/column_up.mat using Guid(7742b1d6e4278e04b8833d23eec3265e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd4a78b9da8b79d742a4bcfbff83d9a') in 0.027717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/GrassCliffLeft.mat
+  artifactKey: Guid(135c4a68be9de07449331f2128710e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/GrassCliffLeft.mat using Guid(135c4a68be9de07449331f2128710e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68fa5ba1f4b7713cd2e1eea31030dbdd') in 0.027392 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004763 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.454 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1455ms)
+		BeginReloadAssembly (138ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1203ms)
+			LoadAssemblies (92ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (334ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (586ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (23ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (398ms)
+				ProcessInitializeOnLoadMethodAttributes (49ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (95.4 KB). Loaded Objects now: 4059.
+Memory consumption went from 129.0 MB to 128.9 MB.
+Total: 5.099500 ms (FindLiveObjects: 0.881400 ms CreateObjectMapping: 1.078200 ms MarkObjects: 3.071500 ms  DeleteObjects: 0.065800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 707.886998 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/Dirt.mat
+  artifactKey: Guid(f8a5ed8b5e7cef04f8d1da14cdc857e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/Dirt.mat using Guid(f8a5ed8b5e7cef04f8d1da14cdc857e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83779654d0dd356a1de8887f82d6101e') in 0.135852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/GrassJoinHillLeft2.mat
+  artifactKey: Guid(d506ce6c947ebb8428970acd17d1c64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/GrassJoinHillLeft2.mat using Guid(d506ce6c947ebb8428970acd17d1c64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff8a484ab0a3e0bc52d07bbbfeab4ac') in 0.025828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/GrassJoinHillLeft2_Down Shadow.mat
+  artifactKey: Guid(0ef48c0335353e741b6e5741d0b816a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/GrassJoinHillLeft2_Down Shadow.mat using Guid(0ef48c0335353e741b6e5741d0b816a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae594af1913ad35f426a5e55d8ec478') in 0.023980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/GrassJoinHillRight.mat
+  artifactKey: Guid(100b4bb15f56fcf49b043c2e8514a506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Materials/GrassJoinHillRight.mat using Guid(100b4bb15f56fcf49b043c2e8514a506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '035cf4e54640b5f30222123d461d5ec5') in 0.019928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.127767 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/Materials/GrassJoinHillLeft.mat
+  artifactKey: Guid(4f08552a920efde4094069e28f2208c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/Materials/GrassJoinHillLeft.mat using Guid(4f08552a920efde4094069e28f2208c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda64db5048c9e1d411f107dae47306f') in 0.027854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.084232 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/Materials/Grass.mat
+  artifactKey: Guid(0b1ea8375ec507b488275ed4c032e0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/Materials/Grass.mat using Guid(0b1ea8375ec507b488275ed4c032e0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2f45baf7953a0164f3f903f564735d') in 0.030158 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005057 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.480 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1481ms)
+		BeginReloadAssembly (132ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1271ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (410ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (581ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (399ms)
+				ProcessInitializeOnLoadMethodAttributes (49ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (95.3 KB). Loaded Objects now: 4074.
+Memory consumption went from 129.1 MB to 129.0 MB.
+Total: 7.166700 ms (FindLiveObjects: 0.850000 ms CreateObjectMapping: 0.606600 ms MarkObjects: 5.571300 ms  DeleteObjects: 0.133600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 129.623090 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bd036785823e2281556a384dd6489b') in 0.204577 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005849 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.500 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1501ms)
+		BeginReloadAssembly (141ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (1278ms)
+			LoadAssemblies (91ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (369ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (96ms)
+			SetupLoadedEditorAssemblies (612ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (23ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (113ms)
+				ProcessInitializeOnLoadAttributes (415ms)
+				ProcessInitializeOnLoadMethodAttributes (49ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (95.3 KB). Loaded Objects now: 4090.
+Memory consumption went from 129.1 MB to 129.1 MB.
+Total: 6.553500 ms (FindLiveObjects: 0.659500 ms CreateObjectMapping: 0.465200 ms MarkObjects: 5.329300 ms  DeleteObjects: 0.097700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
@@ -185,100 +422,43 @@ Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHu
 Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.21 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 2.50 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.247 seconds
+- Completed reload, in  1.457 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1248ms)
-		BeginReloadAssembly (151ms)
+	ReloadAssembly (1458ms)
+		BeginReloadAssembly (157ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (38ms)
-		EndReloadAssembly (997ms)
-			LoadAssemblies (101ms)
+			CreateAndSetChildDomain (53ms)
+		EndReloadAssembly (1191ms)
+			LoadAssemblies (96ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (365ms)
-			ReleaseScriptCaches (5ms)
-			RebuildScriptCaches (108ms)
-			SetupLoadedEditorAssemblies (329ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (24ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (95ms)
-				ProcessInitializeOnLoadAttributes (184ms)
-				ProcessInitializeOnLoadMethodAttributes (20ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.69 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.3 KB). Loaded Objects now: 4014.
-Memory consumption went from 124.3 MB to 124.2 MB.
-Total: 2.870100 ms (FindLiveObjects: 0.336400 ms CreateObjectMapping: 0.162300 ms MarkObjects: 2.307900 ms  DeleteObjects: 0.062100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003374 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.08 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.495 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1496ms)
-		BeginReloadAssembly (139ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (45ms)
-		EndReloadAssembly (1280ms)
-			LoadAssemblies (79ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (429ms)
-			ReleaseScriptCaches (5ms)
+			SetupTypeCache (341ms)
+			ReleaseScriptCaches (4ms)
 			RebuildScriptCaches (90ms)
-			SetupLoadedEditorAssemblies (578ms)
+			SetupLoadedEditorAssemblies (577ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (22ms)
+				InitializePlatformSupportModulesInManaged (21ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (89ms)
-				ProcessInitializeOnLoadAttributes (411ms)
-				ProcessInitializeOnLoadMethodAttributes (47ms)
-				AfterProcessingInitializeOnLoad (6ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (95ms)
+				ProcessInitializeOnLoadAttributes (399ms)
+				ProcessInitializeOnLoadMethodAttributes (50ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.09 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 3.91 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.3 KB). Loaded Objects now: 4029.
-Memory consumption went from 124.3 MB to 124.3 MB.
-Total: 5.334600 ms (FindLiveObjects: 0.965000 ms CreateObjectMapping: 0.296000 ms MarkObjects: 3.983400 ms  DeleteObjects: 0.088200 ms)
+Unloading 19 unused Assets / (95.5 KB). Loaded Objects now: 4105.
+Memory consumption went from 129.2 MB to 129.1 MB.
+Total: 7.195000 ms (FindLiveObjects: 0.834400 ms CreateObjectMapping: 0.549600 ms MarkObjects: 5.734000 ms  DeleteObjects: 0.074800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -291,51 +471,261 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+Received Import Request.
+  Time since last request: 422.657967 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/Materials
+  artifactKey: Guid(ed7f45b2d212e84429d1dc452b929495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/Materials using Guid(ed7f45b2d212e84429d1dc452b929495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d5f0e7e36ae37865cd3f2900b164f86') in 0.021797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 237.871886 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/Asset 40.png
+  artifactKey: Guid(83af88527352393498c344ea871bc465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/Asset 40.png using Guid(83af88527352393498c344ea871bc465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644f590f79f50abaea12d79f455e6861') in 0.112919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassHillRight.png
+  artifactKey: Guid(42ea12f94a9d5434cbf86d0418103a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassHillRight.png using Guid(42ea12f94a9d5434cbf86d0418103a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fee25663c7292a0078da50787de95d05') in 0.046794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassJoinHillRight2&Left2_Down Shadow.png
+  artifactKey: Guid(c8b4a8e0ae5583c4bac2cc04faacb653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassJoinHillRight2&Left2_Down Shadow.png using Guid(c8b4a8e0ae5583c4bac2cc04faacb653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ea9fd4d2646d93478a3dcb86229663d') in 0.047227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/DirtRightCorner.png
+  artifactKey: Guid(ed937ea4880031f4db9d3bf5e2028630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/DirtRightCorner.png using Guid(ed937ea4880031f4db9d3bf5e2028630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949615b977167d68eec103e4d75c661d') in 0.052889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/Dirt.png
+  artifactKey: Guid(2f4741cc1f960ec4d804347f80b76d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/Dirt.png using Guid(2f4741cc1f960ec4d804347f80b76d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '638733f3067ca78a057c1b1b3d1dcd68') in 0.045786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/column_up.png
+  artifactKey: Guid(bcee5f9dfde2e2b46a25ac3129b47408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/column_up.png using Guid(bcee5f9dfde2e2b46a25ac3129b47408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef02f17644be41ea4f971b5a06a0e281') in 0.054067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassJoinHillRight2&Left2.png
+  artifactKey: Guid(ed2e7cc1b24585d4281e04efec03c257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassJoinHillRight2&Left2.png using Guid(ed2e7cc1b24585d4281e04efec03c257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474b977502fa1c88283b1833dd2914dd') in 0.049946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/Column.png
+  artifactKey: Guid(4ca17caca507520499c5a6f3d5af0a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/Column.png using Guid(4ca17caca507520499c5a6f3d5af0a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cbddbcc532a3ff212255c737f24033e') in 0.043783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassCliffMid.png
+  artifactKey: Guid(e40a5b60190c1684c9a77d8aba2a3c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassCliffMid.png using Guid(e40a5b60190c1684c9a77d8aba2a3c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04f098cd9c2d0fd9639f52b78521433') in 0.054194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/Grass.png
+  artifactKey: Guid(69273276e1c8ccb49b6732c3e9722868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/Grass.png using Guid(69273276e1c8ccb49b6732c3e9722868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4d7c0aa9bfd79252493bfc643a7e19') in 0.046497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassHillLeft2.png
+  artifactKey: Guid(6a6c4353903055d40be13d0d3c64f657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassHillLeft2.png using Guid(6a6c4353903055d40be13d0d3c64f657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a92229a9b2a5006a3b14e4192d7a3e') in 0.049895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassJoinHillRight.png
+  artifactKey: Guid(6f8f1ec53d179af408ca99ba2ac5cb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassJoinHillRight.png using Guid(6f8f1ec53d179af408ca99ba2ac5cb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1a6bde0b504a03e9ab897fb63c0df7') in 0.048647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassCliffRight.png
+  artifactKey: Guid(8a3af081cb0881e41a2fd1d45bb3f900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassCliffRight.png using Guid(8a3af081cb0881e41a2fd1d45bb3f900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de30c4854bef10cb9510bc9e2b92f8dd') in 0.055653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassCliffLeft.png
+  artifactKey: Guid(3adb8ebd7960b0749b9a4da6d4184cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassCliffLeft.png using Guid(3adb8ebd7960b0749b9a4da6d4184cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc57707bebb991827713591e4006ac33') in 0.050519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassJoinHillRight2_Downshadow.png
+  artifactKey: Guid(35b587aa7e877ef4da9cc87577070eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassJoinHillRight2_Downshadow.png using Guid(35b587aa7e877ef4da9cc87577070eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba3620c370ba780bb427bf451b602d3') in 0.044164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/column_down.png
+  artifactKey: Guid(73ec061e7811d0a4cac3fdc4a1077ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/column_down.png using Guid(73ec061e7811d0a4cac3fdc4a1077ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efffeecda9d6b4cb2965485f8e08f086') in 0.052936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassHillLeft.png
+  artifactKey: Guid(0cb15d7d2eec9be4883788d8e6ea1009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/512x512/GrassHillLeft.png using Guid(0cb15d7d2eec9be4883788d8e6ea1009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ffa0f7b11316c6fee1c5d671acacb77') in 0.050945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.617827 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/Asset 40.png
+  artifactKey: Guid(e7d1a49545d934a4ba75f11016f91c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/Asset 40.png using Guid(e7d1a49545d934a4ba75f11016f91c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e60c6a67c98afe083636b1fe800bb7') in 0.032693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassCliffMid.png
+  artifactKey: Guid(f495ce0d0ba0a0a43a317087f5239191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassCliffMid.png using Guid(f495ce0d0ba0a0a43a317087f5239191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30878f2787d3063ab1a93a489e51ec05') in 0.032399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/DirtRight.png
+  artifactKey: Guid(0fc8565c24c3a0d45b72990f15151ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/DirtRight.png using Guid(0fc8565c24c3a0d45b72990f15151ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef095a8b38c7d30f49144cf0c2cf4a7') in 0.035362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillRight2.png
+  artifactKey: Guid(df8cad076e2f3ef47951d4e3fe662550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillRight2.png using Guid(df8cad076e2f3ef47951d4e3fe662550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e7f1cb450b388efc45f0075c6b4997e') in 0.032549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassJoinHillRight.png
+  artifactKey: Guid(acdd4dfdb95abf74e8797112296e6d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassJoinHillRight.png using Guid(acdd4dfdb95abf74e8797112296e6d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34437919c34672abe5603b56f286a59b') in 0.033768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/Dirt.png
+  artifactKey: Guid(818f5c33f57454540951217553efbe57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/Dirt.png using Guid(818f5c33f57454540951217553efbe57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15c80d57284d42f0ef5f0309e1890cc') in 0.036991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillLeft.png
+  artifactKey: Guid(4e1cce33c4b28e24cbf240cc2a64c5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillLeft.png using Guid(4e1cce33c4b28e24cbf240cc2a64c5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4150ac717bc6da109a0d2327d633eac') in 0.031837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassJoinHillLeft2_Down Shadow.png
+  artifactKey: Guid(25fc4c4848e472d4ca8eb73f2dbf169e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassJoinHillLeft2_Down Shadow.png using Guid(25fc4c4848e472d4ca8eb73f2dbf169e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d89826fe44576711cc4492357f7964') in 0.035201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/DirtRightCorner.png
+  artifactKey: Guid(5bbf36be5d90ce842b04311dfec1f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/DirtRightCorner.png using Guid(5bbf36be5d90ce842b04311dfec1f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e351131d9a462b2b05251d9b159465') in 0.035149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassJoinHillRight2.png
+  artifactKey: Guid(e0c6d788f29ac6d46a1b32045d73b33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassJoinHillRight2.png using Guid(e0c6d788f29ac6d46a1b32045d73b33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd33a4258c28d33f6bcaa4a4b3c3d74') in 0.036131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillLeft2.png
+  artifactKey: Guid(99ce366db03bdf041a65c674e26297c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillLeft2.png using Guid(99ce366db03bdf041a65c674e26297c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6ac12da487b62ae382569ada9f0036') in 0.031748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/Column.png
+  artifactKey: Guid(58d505ee0adadac4281e31a5c5bd7464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/Column.png using Guid(58d505ee0adadac4281e31a5c5bd7464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c54a2ea3d19af6ac92acabbd08067e5') in 0.030981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillRight.png
+  artifactKey: Guid(ee28e32c0cbd6c846979646ef24825fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillRight.png using Guid(ee28e32c0cbd6c846979646ef24825fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b764c0c25f2411812b244448da1deb8') in 0.039525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassRight.png
+  artifactKey: Guid(2c62264155282ae4e8331ecdbb71f3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassRight.png using Guid(2c62264155282ae4e8331ecdbb71f3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43d20101a5593817d9fa9bc02d9cc57c') in 0.038478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillLeft2_Down Shadow.png
+  artifactKey: Guid(5e494100f0aca7d4a866eb98a26aa0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillLeft2_Down Shadow.png using Guid(5e494100f0aca7d4a866eb98a26aa0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd380e8103536c703d9a386134fd340') in 0.035189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassJoinHillRight2&Left2_Down Shadow.png
+  artifactKey: Guid(59af2cf1b05a90243a1108af75f27e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassJoinHillRight2&Left2_Down Shadow.png using Guid(59af2cf1b05a90243a1108af75f27e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c8ebf8b3a6f9c5bbaeffc3330b7dd30') in 0.032641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillRight2_Down Shadow.png
+  artifactKey: Guid(317442dc9511fa744aa68803a37b63f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/256x256/GrassHillRight2_Down Shadow.png using Guid(317442dc9511fa744aa68803a37b63f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b810e8f88a196e80c5ab8f34efcab3b8') in 0.034676 seconds 
+========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005911 seconds.
+Registered in 0.005080 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 2.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.562 seconds
+- Completed reload, in  1.655 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1563ms)
-		BeginReloadAssembly (131ms)
+	ReloadAssembly (1656ms)
+		BeginReloadAssembly (144ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (1345ms)
-			LoadAssemblies (76ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1416ms)
+			LoadAssemblies (100ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (475ms)
+			SetupTypeCache (497ms)
 			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (84ms)
-			SetupLoadedEditorAssemblies (599ms)
+			RebuildScriptCaches (97ms)
+			SetupLoadedEditorAssemblies (619ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (16ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (103ms)
-				ProcessInitializeOnLoadAttributes (421ms)
-				ProcessInitializeOnLoadMethodAttributes (50ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (108ms)
+				ProcessInitializeOnLoadAttributes (431ms)
+				ProcessInitializeOnLoadMethodAttributes (54ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3.56 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 4.41 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.4 KB). Loaded Objects now: 4044.
-Memory consumption went from 124.4 MB to 124.3 MB.
-Total: 5.886300 ms (FindLiveObjects: 0.668000 ms CreateObjectMapping: 0.374100 ms MarkObjects: 4.649400 ms  DeleteObjects: 0.191100 ms)
+Unloading 19 unused Assets / (101.6 KB). Loaded Objects now: 4125.
+Memory consumption went from 129.2 MB to 129.1 MB.
+Total: 6.271100 ms (FindLiveObjects: 0.636900 ms CreateObjectMapping: 0.303000 ms MarkObjects: 5.077900 ms  DeleteObjects: 0.250300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -350,391 +740,163 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003289 seconds.
+Registered in 0.003498 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.94 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.65 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.498 seconds
+- Completed reload, in  1.624 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1499ms)
+	ReloadAssembly (1625ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (1400ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (497ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (92ms)
+			SetupLoadedEditorAssemblies (615ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (24ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (99ms)
+				ProcessInitializeOnLoadAttributes (429ms)
+				ProcessInitializeOnLoadMethodAttributes (52ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.13 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (95.4 KB). Loaded Objects now: 4140.
+Memory consumption went from 129.3 MB to 129.2 MB.
+Total: 6.403800 ms (FindLiveObjects: 0.961700 ms CreateObjectMapping: 0.273600 ms MarkObjects: 5.061400 ms  DeleteObjects: 0.092700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003988 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.773 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1774ms)
+		BeginReloadAssembly (141ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (1546ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (544ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (98ms)
+			SetupLoadedEditorAssemblies (684ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (117ms)
+				ProcessInitializeOnLoadAttributes (472ms)
+				ProcessInitializeOnLoadMethodAttributes (58ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (95.4 KB). Loaded Objects now: 4155.
+Memory consumption went from 129.3 MB to 129.2 MB.
+Total: 6.594300 ms (FindLiveObjects: 0.613400 ms CreateObjectMapping: 0.327600 ms MarkObjects: 5.519400 ms  DeleteObjects: 0.130200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005478 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.696 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1697ms)
 		BeginReloadAssembly (129ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (50ms)
-		EndReloadAssembly (1292ms)
-			LoadAssemblies (73ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (1464ms)
+			LoadAssemblies (87ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (466ms)
+			SetupTypeCache (548ms)
 			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (92ms)
-			SetupLoadedEditorAssemblies (558ms)
+			RebuildScriptCaches (103ms)
+			SetupLoadedEditorAssemblies (616ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (20ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (92ms)
-				ProcessInitializeOnLoadAttributes (388ms)
-				ProcessInitializeOnLoadMethodAttributes (49ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3.20 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.3 KB). Loaded Objects now: 4059.
-Memory consumption went from 124.4 MB to 124.3 MB.
-Total: 5.517800 ms (FindLiveObjects: 1.063800 ms CreateObjectMapping: 0.292700 ms MarkObjects: 3.997300 ms  DeleteObjects: 0.158100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003744 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.46 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.566 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1567ms)
-		BeginReloadAssembly (125ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (41ms)
-		EndReloadAssembly (1367ms)
-			LoadAssemblies (74ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (480ms)
-			ReleaseScriptCaches (5ms)
-			RebuildScriptCaches (91ms)
-			SetupLoadedEditorAssemblies (602ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (22ms)
+				InitializePlatformSupportModulesInManaged (25ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (105ms)
-				ProcessInitializeOnLoadAttributes (422ms)
-				ProcessInitializeOnLoadMethodAttributes (42ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.06 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.3 KB). Loaded Objects now: 4074.
-Memory consumption went from 124.4 MB to 124.4 MB.
-Total: 2.899800 ms (FindLiveObjects: 0.415600 ms CreateObjectMapping: 0.112400 ms MarkObjects: 2.332000 ms  DeleteObjects: 0.038400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005190 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.83 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.576 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1577ms)
-		BeginReloadAssembly (135ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		EndReloadAssembly (1357ms)
-			LoadAssemblies (83ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (451ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (109ms)
-			SetupLoadedEditorAssemblies (611ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (23ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (103ms)
-				ProcessInitializeOnLoadAttributes (424ms)
-				ProcessInitializeOnLoadMethodAttributes (50ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3.52 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.4 KB). Loaded Objects now: 4089.
-Memory consumption went from 124.5 MB to 124.4 MB.
-Total: 4.389600 ms (FindLiveObjects: 0.543000 ms CreateObjectMapping: 0.372700 ms MarkObjects: 3.415200 ms  DeleteObjects: 0.057000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004102 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.79 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.557 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1558ms)
-		BeginReloadAssembly (134ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (44ms)
-		EndReloadAssembly (1341ms)
-			LoadAssemblies (77ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (474ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (89ms)
-			SetupLoadedEditorAssemblies (596ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (22ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (106ms)
-				ProcessInitializeOnLoadAttributes (415ms)
-				ProcessInitializeOnLoadMethodAttributes (43ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.72 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.5 KB). Loaded Objects now: 4104.
-Memory consumption went from 124.5 MB to 124.4 MB.
-Total: 6.115600 ms (FindLiveObjects: 0.749200 ms CreateObjectMapping: 0.592300 ms MarkObjects: 4.694200 ms  DeleteObjects: 0.076700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003326 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.46 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.337 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1337ms)
-		BeginReloadAssembly (114ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (36ms)
-		EndReloadAssembly (1122ms)
-			LoadAssemblies (70ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (305ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (81ms)
-			SetupLoadedEditorAssemblies (561ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (21ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (99ms)
-				ProcessInitializeOnLoadAttributes (381ms)
-				ProcessInitializeOnLoadMethodAttributes (49ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (420ms)
+				ProcessInitializeOnLoadMethodAttributes (48ms)
 				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.48 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.4 KB). Loaded Objects now: 4119.
-Memory consumption went from 124.5 MB to 124.4 MB.
-Total: 6.311500 ms (FindLiveObjects: 0.609900 ms CreateObjectMapping: 0.448800 ms MarkObjects: 5.023500 ms  DeleteObjects: 0.224100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003841 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.50 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.552 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1553ms)
-		BeginReloadAssembly (125ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (41ms)
-		EndReloadAssembly (1318ms)
-			LoadAssemblies (79ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (478ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (77ms)
-			SetupLoadedEditorAssemblies (586ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (21ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (102ms)
-				ProcessInitializeOnLoadAttributes (405ms)
-				ProcessInitializeOnLoadMethodAttributes (47ms)
-				AfterProcessingInitializeOnLoad (9ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.21 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.3 KB). Loaded Objects now: 4134.
-Memory consumption went from 124.5 MB to 124.4 MB.
-Total: 6.049900 ms (FindLiveObjects: 0.758200 ms CreateObjectMapping: 0.646200 ms MarkObjects: 4.497100 ms  DeleteObjects: 0.143700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003490 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.12 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.593 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1594ms)
-		BeginReloadAssembly (122ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (36ms)
-		EndReloadAssembly (1368ms)
-			LoadAssemblies (79ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (476ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (97ms)
-			SetupLoadedEditorAssemblies (601ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (21ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (100ms)
-				ProcessInitializeOnLoadAttributes (421ms)
-				ProcessInitializeOnLoadMethodAttributes (50ms)
-				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (11ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.42 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 8.93 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.5 KB). Loaded Objects now: 4149.
-Memory consumption went from 124.5 MB to 124.5 MB.
-Total: 5.816600 ms (FindLiveObjects: 0.673600 ms CreateObjectMapping: 0.177000 ms MarkObjects: 4.773800 ms  DeleteObjects: 0.187500 ms)
+Unloading 19 unused Assets / (95.4 KB). Loaded Objects now: 4170.
+Memory consumption went from 129.3 MB to 129.2 MB.
+Total: 6.481700 ms (FindLiveObjects: 0.917800 ms CreateObjectMapping: 0.423200 ms MarkObjects: 4.993200 ms  DeleteObjects: 0.141800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -749,694 +911,49 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003356 seconds.
+Registered in 0.006639 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.31 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 8.44 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.542 seconds
+- Completed reload, in  1.439 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1543ms)
-		BeginReloadAssembly (127ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		EndReloadAssembly (1329ms)
-			LoadAssemblies (83ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (457ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (82ms)
-			SetupLoadedEditorAssemblies (594ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (21ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (93ms)
-				ProcessInitializeOnLoadAttributes (421ms)
-				ProcessInitializeOnLoadMethodAttributes (48ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3.99 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.3 KB). Loaded Objects now: 4164.
-Memory consumption went from 124.6 MB to 124.5 MB.
-Total: 6.523300 ms (FindLiveObjects: 0.676500 ms CreateObjectMapping: 0.478200 ms MarkObjects: 5.124200 ms  DeleteObjects: 0.241200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 1292.789361 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles
-  artifactKey: Guid(ef9f638e16f20d5438fc123755031403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles using Guid(ef9f638e16f20d5438fc123755031403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc021fc129fea069165d94b99b6d890') in 0.027827 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.089129 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_0.asset
-  artifactKey: Guid(e75dfab64b09f364cb5a41289e50fc9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_0.asset using Guid(e75dfab64b09f364cb5a41289e50fc9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d94a79472871774c7b94469414d6b4') in 0.106682 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_19.asset
-  artifactKey: Guid(ced1be987d85e894481d3d81621b6dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_19.asset using Guid(ced1be987d85e894481d3d81621b6dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa74e8acb9d0d53b2a998140b459247') in 0.015057 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_36.asset
-  artifactKey: Guid(5c3c5235aea01414a8c4d23ba380a65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_36.asset using Guid(5c3c5235aea01414a8c4d23ba380a65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1664303298814d4604361d4dac7a4072') in 0.021765 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_37.asset
-  artifactKey: Guid(21e2c297d67d52a42a7f475fab98fdec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_37.asset using Guid(21e2c297d67d52a42a7f475fab98fdec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49de2f4bfa260fbe7d9d6644056133c0') in 0.015814 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000067 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_10.asset
-  artifactKey: Guid(58e1f5676beead643bb075afbb4fb334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_10.asset using Guid(58e1f5676beead643bb075afbb4fb334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1702ba49d1eaa47aa0e03aa4d04a2f48') in 0.017027 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000067 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_12.asset
-  artifactKey: Guid(86f190d72d1652c45948f2dfe388b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_12.asset using Guid(86f190d72d1652c45948f2dfe388b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3d14d4f856076b5a16a26d00933ca05') in 0.016491 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_46.asset
-  artifactKey: Guid(9d1046eec6ee7f64c996f242ee0255eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_46.asset using Guid(9d1046eec6ee7f64c996f242ee0255eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d54b64b4b256e49990e21511b393ae0') in 0.015768 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_25.asset
-  artifactKey: Guid(429d7ef1de56b3d40b6ccc94529001a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_25.asset using Guid(429d7ef1de56b3d40b6ccc94529001a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '004fb8649daac2b9dd38ae5a59e65a29') in 0.015351 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_38.asset
-  artifactKey: Guid(7603470b01ddc7c47b46c2dfcfd68640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_38.asset using Guid(7603470b01ddc7c47b46c2dfcfd68640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74bafbca025310aff310a281323bed85') in 0.016456 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_6.asset
-  artifactKey: Guid(fa17718606ce75e4da62e4c83d2852dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_6.asset using Guid(fa17718606ce75e4da62e4c83d2852dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f44a4290fc8404cb13acbebb54212a4') in 0.016037 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_20.asset
-  artifactKey: Guid(0a51796b08f2adc42908558acf5852db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_20.asset using Guid(0a51796b08f2adc42908558acf5852db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16895c22aad542b818812fb565589db4') in 0.016021 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000094 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_28.asset
-  artifactKey: Guid(2a9c9f904a2908c4a8fa929687241ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_28.asset using Guid(2a9c9f904a2908c4a8fa929687241ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b124ccd8df39a52fad835833a692dcec') in 0.017927 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000116 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_27.asset
-  artifactKey: Guid(51475e54825946c4ba2937113d957bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_27.asset using Guid(51475e54825946c4ba2937113d957bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124db8159b4f30db2c8af0e232283a27') in 0.022601 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_42.asset
-  artifactKey: Guid(f14995cd3618d87409102d2247ab197e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_42.asset using Guid(f14995cd3618d87409102d2247ab197e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7684770bbfb5f35415d7ff4cf8d5e8c') in 0.016632 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_39.asset
-  artifactKey: Guid(e4bfa5a1087d88341bf191654927309c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_39.asset using Guid(e4bfa5a1087d88341bf191654927309c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e18967590660625679c6d63594291ce') in 0.015533 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_32.asset
-  artifactKey: Guid(2d3e4821c0602b743befc71849a70192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_32.asset using Guid(2d3e4821c0602b743befc71849a70192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61eff3b90d933331ac2642b0517bef3f') in 0.015167 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000094 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_4.asset
-  artifactKey: Guid(fd21828b4d65260479ee9eda7fa891eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_4.asset using Guid(fd21828b4d65260479ee9eda7fa891eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db97181becf0c770f3cd4fd9b7b5c59') in 0.016370 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000066 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_3.asset
-  artifactKey: Guid(554275350ef5f9a45b17b3ef2702f579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_3.asset using Guid(554275350ef5f9a45b17b3ef2702f579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85016a6e312064d485b640c7410b0e5e') in 0.020612 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_7.asset
-  artifactKey: Guid(ccb26a6fedaa08444891d1bcf6461d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_7.asset using Guid(ccb26a6fedaa08444891d1bcf6461d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708a57187a1297276827ce240343b487') in 0.015133 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_44.asset
-  artifactKey: Guid(d0d89854bd5333247bf175a16ae58e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_44.asset using Guid(d0d89854bd5333247bf175a16ae58e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13301bd0a0b12e0ce0e927c4314825df') in 0.021400 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_16.asset
-  artifactKey: Guid(53a63154ced0e884086f50d42d2c9d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_16.asset using Guid(53a63154ced0e884086f50d42d2c9d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56d0ac8c7253e677063fc6c2ac20b36') in 0.019240 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_56.asset
-  artifactKey: Guid(ef5791e65c27e8745b3d92a7b5b7d977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_56.asset using Guid(ef5791e65c27e8745b3d92a7b5b7d977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85531cb6289f1125dedea79f829c5aff') in 0.016600 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_57.asset
-  artifactKey: Guid(4f1456c628f036547ba43ca6ea53dbd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_57.asset using Guid(4f1456c628f036547ba43ca6ea53dbd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e62c89814f1c73b7645a9da2cd22a076') in 0.023227 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_60.asset
-  artifactKey: Guid(03691e55e33e91149a774db171867d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_60.asset using Guid(03691e55e33e91149a774db171867d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54f6b4b0485db444ed6082149bd57760') in 0.020369 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_64.asset
-  artifactKey: Guid(5d36cabca48851742898ee1e63481b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_64.asset using Guid(5d36cabca48851742898ee1e63481b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69735592169a63e9266d7df484c2d167') in 0.020924 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000062 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_74.asset
-  artifactKey: Guid(44f9bd91932c9f24999bb82e5b9025eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_74.asset using Guid(44f9bd91932c9f24999bb82e5b9025eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d9a62e845710003f21869be335d3b9') in 0.024258 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_73.asset
-  artifactKey: Guid(65058072dfbdc6b4682d58335cedf5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_73.asset using Guid(65058072dfbdc6b4682d58335cedf5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27825b2f762a362feaf82e6bd31bb9c') in 0.018007 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_78.asset
-  artifactKey: Guid(ac41e4368b4a56042969ada70a274544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_78.asset using Guid(ac41e4368b4a56042969ada70a274544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3e889ba352ee1894e45672bdba1edf') in 0.022296 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_83.asset
-  artifactKey: Guid(a26c945c8f15ff3439d9552824caefc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_83.asset using Guid(a26c945c8f15ff3439d9552824caefc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6bb5ae59b26d88b0837070280023e7') in 0.020551 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_66.asset
-  artifactKey: Guid(64c0ed4c934d5314bb08c17bf040000a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_66.asset using Guid(64c0ed4c934d5314bb08c17bf040000a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18bc50f0db3bf938bae50efb92764119') in 0.020303 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_76.asset
-  artifactKey: Guid(3b2c2aa004e7bba4ba9397bc11dd5af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_76.asset using Guid(3b2c2aa004e7bba4ba9397bc11dd5af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c402f7001939d9332a12be141c8d82b2') in 0.018283 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000071 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_67.asset
-  artifactKey: Guid(a2190a63fb0d78b4f8bdf4bd26907657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_67.asset using Guid(a2190a63fb0d78b4f8bdf4bd26907657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad57b5ba5068a586722b17808a0c7418') in 0.017442 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_63.asset
-  artifactKey: Guid(0fd3e894d8f9ee646923fb2a563d4691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_63.asset using Guid(0fd3e894d8f9ee646923fb2a563d4691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f452d060681561b6a6466c5019b7b227') in 0.016530 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_51.asset
-  artifactKey: Guid(61ce939808202574b9a7f4f8647d836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_51.asset using Guid(61ce939808202574b9a7f4f8647d836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c27ef486a6065e19244b06109eef3e') in 0.018596 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_53.asset
-  artifactKey: Guid(03bf8c13ecc818c4db8c46e4318df40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_53.asset using Guid(03bf8c13ecc818c4db8c46e4318df40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aadc761882b29e192f0dc2bcfb9622d4') in 0.018435 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_82.asset
-  artifactKey: Guid(5764a91d834e0b54a8186d0ac605ba0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_82.asset using Guid(5764a91d834e0b54a8186d0ac605ba0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '854925eebc1d47e888ed4104bf215544') in 0.015836 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_72.asset
-  artifactKey: Guid(e0e489981a851d3429c2f446c3591add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_72.asset using Guid(e0e489981a851d3429c2f446c3591add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e034d796b74ecd86c57e6acdc6d2c969') in 0.017835 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_22.asset
-  artifactKey: Guid(c510882f61007004588f8d5398567543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_22.asset using Guid(c510882f61007004588f8d5398567543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2cec6466d93bf2e2ccea57ae0cbd3c6') in 0.014643 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000060 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_26.asset
-  artifactKey: Guid(7fa0dc51a2d3aa247867cb7c52eafcfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_26.asset using Guid(7fa0dc51a2d3aa247867cb7c52eafcfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0597904f495cabc3444d475a301ed5e') in 0.015944 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_35.asset
-  artifactKey: Guid(161b264981e540842a3509b3646d59b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_35.asset using Guid(161b264981e540842a3509b3646d59b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b826f1cdd2226a78cfa2a0acc9d11f98') in 0.020166 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000072 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_17.asset
-  artifactKey: Guid(d97e0ad8e45ea3e4c815039fd39ab695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_17.asset using Guid(d97e0ad8e45ea3e4c815039fd39ab695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8849d936b874c4f48f4d8bd0f909c799') in 0.018123 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000097 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_52.asset
-  artifactKey: Guid(db31a99fa29ea8442a7fb72ff08ae78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_52.asset using Guid(db31a99fa29ea8442a7fb72ff08ae78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af83234ce696ad72fb23fae6b2afcf46') in 0.017276 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.093056 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_84.asset
-  artifactKey: Guid(bbeb8e396c801ad489023a357942ffb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_84.asset using Guid(bbeb8e396c801ad489023a357942ffb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be402683172d7d5fc2fc757e10e0734c') in 0.016705 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000055 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_94.asset
-  artifactKey: Guid(880e580cd40a51145baa83ff4afe68a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_94.asset using Guid(880e580cd40a51145baa83ff4afe68a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9041921814cfd5baf0687fe47d1a4e') in 0.014268 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_106.asset
-  artifactKey: Guid(cdb9ea3426ff0354497b32dd3180efb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_106.asset using Guid(cdb9ea3426ff0354497b32dd3180efb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9400bab745dbe9107016caa85ebe0a68') in 0.027519 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000082 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_88.asset
-  artifactKey: Guid(69a53c6760054054c88b8c74f2a892eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_88.asset using Guid(69a53c6760054054c88b8c74f2a892eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c4c704c4aedf5c779eb0016533c074') in 0.016066 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000062 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_98.asset
-  artifactKey: Guid(90719251876abbd4fad17d49c2a1b338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_98.asset using Guid(90719251876abbd4fad17d49c2a1b338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1affbe4a139fe8179054f16642771de4') in 0.020327 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_104.asset
-  artifactKey: Guid(15118a80c82cf9141ba56e955c220fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_104.asset using Guid(15118a80c82cf9141ba56e955c220fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e2930c5b63a90a6935bbcde568277b') in 0.021192 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_97.asset
-  artifactKey: Guid(f25bbc3909877244593152bccfe5d961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_97.asset using Guid(f25bbc3909877244593152bccfe5d961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f0cdb34d22707e69960ff5b74cacfd') in 0.019919 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_90.asset
-  artifactKey: Guid(d29a69587d9cbe74297c0d335fe64884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_90.asset using Guid(d29a69587d9cbe74297c0d335fe64884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ecbcadb48b6b19a12d8ac4649735afc') in 0.020136 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_107.asset
-  artifactKey: Guid(1bd87f225e518ca458fc312cc8a430e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_107.asset using Guid(1bd87f225e518ca458fc312cc8a430e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94dc2af309306ad67320a206a5d4598a') in 0.025604 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_93.asset
-  artifactKey: Guid(f4c9454fa09eb2b4289df8b310995285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_93.asset using Guid(f4c9454fa09eb2b4289df8b310995285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e3d58a06c13da6acc6e35b7151cc991') in 0.015129 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_100.asset
-  artifactKey: Guid(1ce35457d4ed80049ad1ea9c985528d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_100.asset using Guid(1ce35457d4ed80049ad1ea9c985528d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e1740f2c8a826b91a402cf7f1989ceb') in 0.022366 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000092 seconds.
-  path: Assets/Platform tile pack/ArtWork/Tiles/Tileset_86.asset
-  artifactKey: Guid(673861d1c8308bb4080768e830654dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Platform tile pack/ArtWork/Tiles/Tileset_86.asset using Guid(673861d1c8308bb4080768e830654dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25b9e166bd56e6124ddff3ce860717a8') in 0.018750 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.736855 seconds.
-  path: Assets/Free 2D Cartoon Parallax Background/!_Moutain
-  artifactKey: Guid(c2615c47bf4458444bf88f5b986b4ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free 2D Cartoon Parallax Background/!_Moutain using Guid(c2615c47bf4458444bf88f5b986b4ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46f38d612ba81db61d4ca90ec997706') in 0.016084 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.866610 seconds.
-  path: Assets/Free 2D Cartoon Parallax Background/Demo
-  artifactKey: Guid(e154ca7176d62b448a6f67ec2e3fefcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free 2D Cartoon Parallax Background/Demo using Guid(e154ca7176d62b448a6f67ec2e3fefcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ee057f78155c6e9ce987e366013bb2') in 0.020479 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.976596 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Backgrounds
-  artifactKey: Guid(4032d8f8d13c5954f956f116443aacff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Backgrounds using Guid(4032d8f8d13c5954f956f116443aacff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7c773a9e81fc121673c3249598be3c') in 0.018595 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 17.815884 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring
-  artifactKey: Guid(93b736106b0ccdc428b6af3d52b8eef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring using Guid(93b736106b0ccdc428b6af3d52b8eef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96bd4067f0a7336087017f15ef49526') in 0.021471 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.979191 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/ai
-  artifactKey: Guid(16c34016a4301304aad929bcd69e6d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/ai using Guid(16c34016a4301304aad929bcd69e6d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d033babc70ef456a5383445bb1c9da8') in 0.019538 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.372303 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png
-  artifactKey: Guid(c62cdd51d54f8eb4284dacc93e118ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png using Guid(c62cdd51d54f8eb4284dacc93e118ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf69337e64f7f9c2fa117f68b3b9d654') in 0.013298 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.687860 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128
-  artifactKey: Guid(abe7da9f11c47fa4eb07753f3da0e7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128 using Guid(abe7da9f11c47fa4eb07753f3da0e7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a074543b56863ce2edc28a68225df2e2') in 0.017955 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.042280 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Asset 40.png
-  artifactKey: Guid(9c400249c3a8d0449a0776ffc43ab5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Asset 40.png using Guid(9c400249c3a8d0449a0776ffc43ab5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd30143617c769e6bcdfb5da5285d2c4') in 0.107057 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtRight.png
-  artifactKey: Guid(133e6794d166c4d4594417a1d8523cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtRight.png using Guid(133e6794d166c4d4594417a1d8523cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e33408b019bbd3aa0f69cd308fa396f') in 0.048129 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtDown.png
-  artifactKey: Guid(fe0fe4dd67749a34f8d9fef85e7c745c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtDown.png using Guid(fe0fe4dd67749a34f8d9fef85e7c745c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cf6b4993a9a1a20d8d6134c0c1ce56d') in 0.039701 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000133 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassHillLeft.png
-  artifactKey: Guid(4fb12cb17d6793c48af241272932de0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassHillLeft.png using Guid(4fb12cb17d6793c48af241272932de0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52330273b8177be3788422c1b22ab05b') in 0.040135 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/column_down.png
-  artifactKey: Guid(416f7581c5f0ad24c9d91e8f3c4f84c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/column_down.png using Guid(416f7581c5f0ad24c9d91e8f3c4f84c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bf71d1ac55a3c29269c4d616a8fbf7a') in 0.040663 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillRight.png
-  artifactKey: Guid(908c94f42d3f220499d0c189115dd74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillRight.png using Guid(908c94f42d3f220499d0c189115dd74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65fafec535e63eb4239ef719e533d5b1') in 0.028400 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillRight2&Left2_Down Shadow.png
-  artifactKey: Guid(a2ad6f6ba1345e544a054e9e7a78f5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillRight2&Left2_Down Shadow.png using Guid(a2ad6f6ba1345e544a054e9e7a78f5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff7e18b1a14efab25e6c2eb0065d4fd') in 0.029044 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassRight.png
-  artifactKey: Guid(1566c2951bcbc9d429763df0ca916c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassRight.png using Guid(1566c2951bcbc9d429763df0ca916c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf037fc59fcd42c3cd2167a971bddcc3') in 0.032279 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassHillRight2.png
-  artifactKey: Guid(3e8f0396158959543bee68cf450ea04d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassHillRight2.png using Guid(3e8f0396158959543bee68cf450ea04d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b5844f0f40b9e1089b800d800e54bf2') in 0.035201 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtLeftCorner.png
-  artifactKey: Guid(094c988a0734a0544bbdf5628029b1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtLeftCorner.png using Guid(094c988a0734a0544bbdf5628029b1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb74103f231f3b4bbf93c2a7ebe8e80') in 0.029833 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassCliffLeft.png
-  artifactKey: Guid(000207c915a540846881f1fd39478908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassCliffLeft.png using Guid(000207c915a540846881f1fd39478908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca0631c74b8018b12c6c9943c02e98b') in 0.026197 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Dirt.png
-  artifactKey: Guid(5b417972b4ee6e64488d28b5f7a8e576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Dirt.png using Guid(5b417972b4ee6e64488d28b5f7a8e576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e72a799f8ac93b01dff989350ff7733') in 0.033504 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtRightCorner.png
-  artifactKey: Guid(bdb0009f0a61d72498d216851eebcdf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtRightCorner.png using Guid(bdb0009f0a61d72498d216851eebcdf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b33ceb2aa5e3a0c78bf9e6588e0bcd') in 0.029046 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassMid.png
-  artifactKey: Guid(548cae4b4e579864caaba7b922bfe4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassMid.png using Guid(548cae4b4e579864caaba7b922bfe4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6abae9b431935cda7523c1e64bfd1993') in 0.033864 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtLeft.png
-  artifactKey: Guid(aaab32067c0579e43a348b131e39303b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtLeft.png using Guid(aaab32067c0579e43a348b131e39303b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529088a8403480575e394ce60bae23d7') in 0.034661 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassSample_2.png
-  artifactKey: Guid(ed7de711c6ed45a419d9d0774ec2d651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassSample_2.png using Guid(ed7de711c6ed45a419d9d0774ec2d651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87a9d75d0dd957321d4f4bf74d5a9e4') in 0.034512 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillLeft2_Down Shadow.png
-  artifactKey: Guid(4802eb907cb033d4cbc3e33c64afc176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillLeft2_Down Shadow.png using Guid(4802eb907cb033d4cbc3e33c64afc176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef5a7079914664ac13143ebf47dd57d') in 0.035201 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004606 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.18 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.556 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1557ms)
-		BeginReloadAssembly (118ms)
+	ReloadAssembly (1440ms)
+		BeginReloadAssembly (121ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (37ms)
-		EndReloadAssembly (1357ms)
-			LoadAssemblies (74ms)
+			CreateAndSetChildDomain (39ms)
+		EndReloadAssembly (1231ms)
+			LoadAssemblies (82ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (483ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (85ms)
-			SetupLoadedEditorAssemblies (605ms)
+			SetupTypeCache (330ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (622ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (21ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (96ms)
-				ProcessInitializeOnLoadAttributes (425ms)
-				ProcessInitializeOnLoadMethodAttributes (51ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.88 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.4 KB). Loaded Objects now: 4187.
-Memory consumption went from 129.0 MB to 128.9 MB.
-Total: 5.317400 ms (FindLiveObjects: 0.696300 ms CreateObjectMapping: 0.654400 ms MarkObjects: 3.857400 ms  DeleteObjects: 0.107100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003398 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.36 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.667 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1668ms)
-		BeginReloadAssembly (134ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (1444ms)
-			LoadAssemblies (102ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (511ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (95ms)
-			SetupLoadedEditorAssemblies (608ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (23ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (108ms)
-				ProcessInitializeOnLoadAttributes (414ms)
-				ProcessInitializeOnLoadMethodAttributes (52ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3.61 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.4 KB). Loaded Objects now: 4202.
-Memory consumption went from 129.0 MB to 128.9 MB.
-Total: 7.074600 ms (FindLiveObjects: 1.146600 ms CreateObjectMapping: 1.053000 ms MarkObjects: 4.704500 ms  DeleteObjects: 0.168000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006026 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\CNSB22\Documents\GitHub\TheFiveEnchantedLands\My project (2)\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.80 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.677 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1678ms)
-		BeginReloadAssembly (128ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (41ms)
-		EndReloadAssembly (1459ms)
-			LoadAssemblies (86ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (516ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (94ms)
-			SetupLoadedEditorAssemblies (635ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (23ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (114ms)
-				ProcessInitializeOnLoadAttributes (430ms)
-				ProcessInitializeOnLoadMethodAttributes (55ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (9ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (423ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (11ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.58 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 3.96 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3520 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (95.3 KB). Loaded Objects now: 4217.
-Memory consumption went from 129.0 MB to 128.9 MB.
-Total: 7.259400 ms (FindLiveObjects: 1.322300 ms CreateObjectMapping: 0.385500 ms MarkObjects: 5.341200 ms  DeleteObjects: 0.206600 ms)
+Unloading 19 unused Assets / (95.4 KB). Loaded Objects now: 4185.
+Memory consumption went from 129.3 MB to 129.2 MB.
+Total: 6.752800 ms (FindLiveObjects: 0.768700 ms CreateObjectMapping: 0.499000 ms MarkObjects: 5.349600 ms  DeleteObjects: 0.132000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 

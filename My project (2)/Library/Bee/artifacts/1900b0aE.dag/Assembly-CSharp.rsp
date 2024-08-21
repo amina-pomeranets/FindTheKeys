@@ -358,6 +358,8 @@
 "Assets/Low_Swordman/Demo/Scripts/GroundSensor.cs"
 "Assets/Low_Swordman/Demo/Scripts/PlayerController.cs"
 "Assets/Low_Swordman/Demo/Scripts/Swordman.cs"
+"Assets/Scripts/KeyCollision.cs"
+"Assets/Scripts/PlayerCollision.cs"
 -langversion:9.0
 
 /deterministic
