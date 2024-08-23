@@ -19,15 +19,26 @@ public class KeyCollision : MonoBehaviour
     {
         following = true;
         player = collision.gameObject;
+        //collision.collider.isTrigger = true;
     }
 
     private void FollowPlayer()
     {
         if (following)
         {
-            Vector3 playerPosition = player.transform.position;
+            Vector3 keyOffset = new Vector3(0,0,0);
 
-            transform.position = playerPosition;
+            if (player.transform.localScale.x == -1)
+            {
+                keyOffset = player.transform.position + new Vector3(1.5f, 0, 0);
+                transform.rotation = new Quaternion(0, 0, 0, 0);
+
+            } else if(player.transform.localScale.y == 1) 
+            {
+                keyOffset = player.transform.position + new Vector3(-1.5f, 0, 0);
+                transform.rotation = new Quaternion(0, 180, 0, 0);
+            }
+            transform.position = keyOffset;
         }
     }
 
