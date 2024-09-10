@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - Collectable
   - Kill
+  - Blue
+  - Key
   layers:
   - Default
   - TransparentFX
