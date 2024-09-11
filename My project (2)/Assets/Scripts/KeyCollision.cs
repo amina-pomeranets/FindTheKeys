@@ -2,14 +2,21 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class KeyCollision : MonoBehaviour
 {
     public GameObject player;
+    //public GameObject key;
 
     public Boolean following;
 
-    //public Key holdingKey;
+    //public Boolean holdingKey = false;
+
+    //public int keyCount = 1;
+
+    //public Text keyText;
+
     //public GameObject keyObject;
 
     // Start is called before the first frame update
@@ -21,11 +28,19 @@ public class KeyCollision : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         following = true;
+
         player = collision.gameObject;
+        //key = collision.gameObject;
         //collision.collider.isTrigger = true;
 
-       
-        
+        //holdingKey = true;
+        //keyPoints = 0;
+
+        //if (collision.gameObject.tag == "Key")
+        //{
+            //keyCount -= 1;
+            //keyText.text = keyCount.ToString();
+        //}
     }
 
     private void FollowPlayer()
