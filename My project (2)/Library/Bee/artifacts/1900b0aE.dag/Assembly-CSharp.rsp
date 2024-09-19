@@ -362,6 +362,7 @@
 "Assets/Scripts/KeyCollision.cs"
 "Assets/Scripts/KillGround.cs"
 "Assets/Scripts/PlayerCollision.cs"
+"Assets/Scripts/PortalCollision.cs"
 -langversion:9.0
 
 /deterministic
