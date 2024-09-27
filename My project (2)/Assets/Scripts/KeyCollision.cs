@@ -1,3 +1,5 @@
+/*
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -90,6 +92,7 @@ public class KeyCollision : MonoBehaviour
     }
 }
 
+*/
 
 
 
@@ -99,7 +102,6 @@ public class KeyCollision : MonoBehaviour
 
 
 
-/*
 
 using System;
 using System.Collections;
@@ -122,6 +124,10 @@ public class KeyCollision : MonoBehaviour
 
     //public GameObject keyObject;
 
+    //public Text text;
+
+    //public Text keyMessageText;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -132,7 +138,95 @@ public class KeyCollision : MonoBehaviour
     {
         following = true;
 
-        player = collision.gameObject;
+        // Check if the collided object has the Swordman component
+        Swordman swordman = collision.gameObject.GetComponent<Swordman>();
+
+        if (swordman != null) // If the player has the Swordman component
+        {
+            swordman.AddKeyCount(1);
+            Debug.Log("Key Count: " + swordman.keyCount); // Print the key count
+
+
+
+
+            //keyMessageText.gameObject.SetActive(true); // Show the message
+            //keyMessageText.text = "Now Find The Portal"; // Set the message text
+
+
+
+
+
+            //~~~~~MAKE A MESSAGE FOR THE PLAYER TO FIND THE PORTAL, AFTER COLLECTING THE KEY~~~~~
+
+
+
+
+
+            /*
+                        using System.Collections;
+                        using System.Collections.Generic;
+                        using UnityEngine;
+                        using UnityEngine.UI; // Make sure to include this for UI elements
+
+            public class KeyCollision : MonoBehaviour
+                {
+                    public GameObject player;
+                    public Text keyMessageText; // Reference to the UI Text
+                    public float messageDisplayTime = 2f; // Time to display the message
+
+                    private void OnCollisionEnter2D(Collision2D collision)
+                    {
+                        // Check if the collided object has the Swordman component
+                        Swordman swordman = collision.gameObject.GetComponent<Swordman>();
+
+                        if (swordman != null) // If the player has the Swordman component
+                        {
+                            swordman.AddKeyCount(1); // Add key
+                            Debug.Log("Key Count: " + swordman.keyCount);
+                            ShowKeyMessage(); // Call the function to show the message
+                        }
+                    }
+
+                    private void ShowKeyMessage()
+                    {
+                        keyMessageText.gameObject.SetActive(true); // Show the message
+                        keyMessageText.text = "Key Collected!"; // Set the message text
+                        StartCoroutine(HideMessageAfterDelay()); // Start coroutine to hide it
+                    }
+
+                    private IEnumerator HideMessageAfterDelay()
+                    {
+                        yield return new WaitForSeconds(messageDisplayTime); // Wait for the specified time
+                        keyMessageText.gameObject.SetActive(false); // Hide the message
+                    }
+
+                    private void FollowPlayer()
+                    {
+                        // Your existing FollowPlayer code here
+                    }
+
+                    void Update()
+                    {
+                        FollowPlayer();
+                    }
+                }
+            */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
+
         //key = collision.gameObject;
         //collision.collider.isTrigger = true;
 
@@ -141,8 +235,8 @@ public class KeyCollision : MonoBehaviour
 
         //if (collision.gameObject.tag == "Key")
         //{
-            //keyCount -= 1;
-            //keyText.text = keyCount.ToString();
+        //keyCount -= 1;
+        //keyText.text = keyCount.ToString();
         //}
     }
 
@@ -174,4 +268,3 @@ public class KeyCollision : MonoBehaviour
     }
 }
 
-*/

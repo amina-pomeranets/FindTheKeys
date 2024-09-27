@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class Swordman : PlayerController
 {
-
- 
+    public int keyCount;
 
     private void Start()
     {
@@ -13,8 +12,14 @@ public class Swordman : PlayerController
         m_CapsulleCollider  = this.transform.GetComponent<CapsuleCollider2D>();
         m_Anim = this.transform.Find("model").GetComponent<Animator>();
         m_rigidbody = this.transform.GetComponent<Rigidbody2D>();
-  
+        //this.transform.position = new Vector3(-6.39f, 0.34f, 13.66f);
+ 
+    }
 
+    public void AddKeyCount(int _keyCount)
+    {
+        keyCount += _keyCount;
+    
     }
 
 
@@ -108,11 +113,11 @@ public class Swordman : PlayerController
         }
 
 
-        if (Input.GetKey(KeyCode.Alpha1))
-        {
-            m_Anim.Play("Die");
+        //if (Input.GetKey(KeyCode.Alpha1))
+        //
+            //m_Anim.Play("Die");
 
-        }
+        //}
 
         // 기타 이동 인풋.
 

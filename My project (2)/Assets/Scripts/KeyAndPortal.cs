@@ -14,20 +14,20 @@ public class KeyAndPortal : MonoBehaviour
         portal.SetActive(false); // Hide the portal at the start
     }
     
-    void Update()
-    {
-        if (hasKey && Input.GetKeyDown(KeyCode.E)) // Press 'E' to activate the portal
-        {
-            TeleportToNextLevel();
-        }
-    }
+    //void Update()
+    //{
+        //if (hasKey && Input.GetKeyDown(KeyCode.E)) // Press 'E' to activate the portal
+        //{
+            //TeleportToNextLevel();
+        //}
+    //}
     
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject == key)
         {
             hasKey = true;
-            Destroy(key); // Collect the key
+            //Destroy(key); // Collect the key
             portal.SetActive(true); // Show the portal
         }
         else if (other.gameObject == portal && hasKey)

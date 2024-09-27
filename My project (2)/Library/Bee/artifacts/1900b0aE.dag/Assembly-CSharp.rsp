@@ -359,6 +359,7 @@
 "Assets/Low_Swordman/Demo/Scripts/PlayerController.cs"
 "Assets/Low_Swordman/Demo/Scripts/Swordman.cs"
 "Assets/NeonShapes/SelfDestroyScript.cs"
+"Assets/Scripts/KeyAndPortal.cs"
 "Assets/Scripts/KeyCollision.cs"
 "Assets/Scripts/KillGround.cs"
 "Assets/Scripts/PlayerCollision.cs"
