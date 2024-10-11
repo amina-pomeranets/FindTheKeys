@@ -57,16 +57,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\KeyCollision.cs" />
+    <Compile Include="Assets\Kalkatos\DottedArrow\Scripts\Arrow.cs" />
     <Compile Include="Assets\Free 2D Cartoon Parallax Background\Demo\Script\ParallaxBackground_0.cs" />
+    <Compile Include="Assets\Kalkatos\DottedArrow\Example\Scripts\King.cs" />
+    <Compile Include="Assets\Kalkatos\DottedArrow\Example\Scripts\CombatManager.cs" />
     <Compile Include="Assets\Scripts\PlayerCollision.cs" />
     <Compile Include="Assets\Scripts\KillGround.cs" />
     <Compile Include="Assets\NeonShapes\SelfDestroyScript.cs" />
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\GroundSensor.cs" />
     <Compile Include="Assets\Scripts\KeyAndPortal.cs" />
+    <Compile Include="Assets\Scripts\PortalCollisionLevel2.cs" />
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Kalkatos\DottedArrow\Scripts\ActivateOnMousePress.cs" />
     <Compile Include="Assets\Scripts\PortalCollision.cs" />
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\Swordman.cs" />
     <Compile Include="Assets\Free 2D Cartoon Parallax Background\Demo\Script\BackgroundControl_0.cs" />
+    <Compile Include="Assets\Kalkatos\DottedArrow\Example\Scripts\Card.cs" />
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\Demo_GM.cs" />
   </ItemGroup>
@@ -74,6 +80,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Kalkatos\DottedArrow\Documentation\Changelog.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />

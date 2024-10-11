@@ -353,6 +353,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Free 2D Cartoon Parallax Background/Demo/Script/BackgroundControl_0.cs"
 "Assets/Free 2D Cartoon Parallax Background/Demo/Script/ParallaxBackground_0.cs"
+"Assets/Kalkatos/DottedArrow/Example/Scripts/Card.cs"
+"Assets/Kalkatos/DottedArrow/Example/Scripts/CombatManager.cs"
+"Assets/Kalkatos/DottedArrow/Example/Scripts/King.cs"
+"Assets/Kalkatos/DottedArrow/Scripts/ActivateOnMousePress.cs"
+"Assets/Kalkatos/DottedArrow/Scripts/Arrow.cs"
 "Assets/Low_Swordman/Demo/Scripts/CameraController.cs"
 "Assets/Low_Swordman/Demo/Scripts/Demo_GM.cs"
 "Assets/Low_Swordman/Demo/Scripts/GroundSensor.cs"
@@ -364,6 +369,7 @@
 "Assets/Scripts/KillGround.cs"
 "Assets/Scripts/PlayerCollision.cs"
 "Assets/Scripts/PortalCollision.cs"
+"Assets/Scripts/PortalCollisionLevel2.cs"
 -langversion:9.0
 
 /deterministic
