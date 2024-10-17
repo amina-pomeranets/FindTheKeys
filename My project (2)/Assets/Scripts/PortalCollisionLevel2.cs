@@ -27,7 +27,7 @@ public class PortalCollisionLevel2 : MonoBehaviour
 
     void TeleportToNextLevel2()
     {
-        SceneManager.LoadScene(2); // Load the next level
+        SceneManager.LoadScene(3); // Load the next level
     }
 }
 

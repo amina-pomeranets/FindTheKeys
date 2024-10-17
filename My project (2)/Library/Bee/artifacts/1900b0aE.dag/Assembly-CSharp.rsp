@@ -371,6 +371,7 @@
 "Assets/Scripts/PlayerCollision.cs"
 "Assets/Scripts/PortalCollision.cs"
 "Assets/Scripts/PortalCollisionLevel2.cs"
+"Assets/Scripts/PortalCollisionLevel3.cs"
 -langversion:9.0
 
 /deterministic
