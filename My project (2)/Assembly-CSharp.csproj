@@ -68,6 +68,7 @@
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\GroundSensor.cs" />
     <Compile Include="Assets\Scripts\KeyAndPortal.cs" />
     <Compile Include="Assets\Scripts\PortalCollisionLevel2.cs" />
+    <Compile Include="Assets\Scripts\PortalCollisionLevel3.cs" />
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\CameraController.cs" />
     <Compile Include="Assets\Kalkatos\DottedArrow\Scripts\ActivateOnMousePress.cs" />
     <Compile Include="Assets\Scripts\PortalCollision.cs" />
@@ -76,7 +77,6 @@
     <Compile Include="Assets\Kalkatos\DottedArrow\Example\Scripts\Card.cs" />
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\Demo_GM.cs" />
-    <Compile Include="Assets\Scripts\PortalCollisionLevel3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
