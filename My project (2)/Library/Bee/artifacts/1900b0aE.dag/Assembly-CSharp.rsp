@@ -368,6 +368,7 @@
 "Assets/Scripts/KeyCollision.cs"
 "Assets/Scripts/KillGround.cs"
 "Assets/Scripts/KillGroundLevel3.cs"
+"Assets/Scripts/KillGroundLevel4.cs"
 "Assets/Scripts/PlayerCollision.cs"
 "Assets/Scripts/PortalCollision.cs"
 "Assets/Scripts/PortalCollisionLevel2.cs"

@@ -77,6 +77,7 @@
     <Compile Include="Assets\Kalkatos\DottedArrow\Example\Scripts\Card.cs" />
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Low_Swordman\Demo\Scripts\Demo_GM.cs" />
+    <Compile Include="Assets\Scripts\KillGroundLevel4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
