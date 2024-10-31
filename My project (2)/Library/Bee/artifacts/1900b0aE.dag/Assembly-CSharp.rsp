@@ -364,15 +364,20 @@
 "Assets/Low_Swordman/Demo/Scripts/PlayerController.cs"
 "Assets/Low_Swordman/Demo/Scripts/Swordman.cs"
 "Assets/NeonShapes/SelfDestroyScript.cs"
+"Assets/Scripts/EnemyHealth.cs"
+"Assets/Scripts/EnemyMovement.cs"
 "Assets/Scripts/KeyAndPortal.cs"
 "Assets/Scripts/KeyCollision.cs"
 "Assets/Scripts/KillGround.cs"
 "Assets/Scripts/KillGroundLevel3.cs"
 "Assets/Scripts/KillGroundLevel4.cs"
 "Assets/Scripts/PlayerCollision.cs"
+"Assets/Scripts/PlayerHealth.cs"
 "Assets/Scripts/PortalCollision.cs"
 "Assets/Scripts/PortalCollisionLevel2.cs"
 "Assets/Scripts/PortalCollisionLevel3.cs"
+"Assets/Scripts/PortalCollisionLevel4.cs"
+"Assets/Scripts/SceneLoader.cs"
 -langversion:9.0
 
 /deterministic
