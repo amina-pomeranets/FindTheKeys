@@ -86,6 +86,12 @@ public class Swordman : PlayerController
         GroundCheckUpdate();
 
 
+
+
+
+
+        
+
         if (!m_Anim.GetCurrentAnimatorStateInfo(0).IsName("Attack"))
         {
             if (Input.GetKey(KeyCode.Mouse0))
@@ -150,6 +156,24 @@ public class Swordman : PlayerController
             if (m_Anim.GetCurrentAnimatorStateInfo(0).IsName("Attack"))
                 return;
 
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             if (!Input.GetKey(KeyCode.A))
                 Filp(false);
 
@@ -189,6 +213,13 @@ public class Swordman : PlayerController
         }
 
 
+
+
+
+
+
+        
+
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if (m_Anim.GetCurrentAnimatorStateInfo(0).IsName("Attack"))
@@ -214,6 +245,11 @@ public class Swordman : PlayerController
 
 
         }
+
+
+
+
+
 
 
 
