@@ -380,6 +380,7 @@
 "Assets/Scripts/PortalCollisionLevel4.cs"
 "Assets/Scripts/PortalCollisionLevel5.cs"
 "Assets/Scripts/SceneLoader.cs"
+"Assets/Scripts/SceneLoaderToLevel1.cs"
 -langversion:9.0
 
 /deterministic
