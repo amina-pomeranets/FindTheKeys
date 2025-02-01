@@ -96,7 +96,11 @@ public class Demo_GM : MonoBehaviour {
             Demo_GM.Gm.UIImage[1].color = myColor;
         }
 
-        ///
+        /*
+         * We deleted the image for mouse click to show when the user presses
+         * any button on the mouse. Therefore, we don't need this code. 
+         * 
+         * 
         if (Input.GetKeyUp(KeyCode.Mouse0))
         {
             Color myColor = new Color32(255, 255, 255, 255);
@@ -133,7 +137,7 @@ public class Demo_GM : MonoBehaviour {
 
         }
 
-    
+    */
 
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
